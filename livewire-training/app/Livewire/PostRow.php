@@ -13,8 +13,6 @@ class PostRow extends Component
         $this->post = $post;
     }
 
-    public
-
     public function render()
     {
         return view('livewire.post-row');

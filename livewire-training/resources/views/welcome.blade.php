@@ -6,6 +6,6 @@
     <title>Livewire Training</title>
 </head>
 <body>
-    <livewire:todos/>
+    <livewire:edit-profile/>
 </body>
 </html>
